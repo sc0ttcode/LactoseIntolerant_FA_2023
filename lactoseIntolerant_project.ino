@@ -1,6 +1,7 @@
 void setup() 
 {
   silly :3
+    baka 
 }
 
 void loop() {
