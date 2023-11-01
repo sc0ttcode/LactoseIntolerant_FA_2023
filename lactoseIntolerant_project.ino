@@ -1,7 +1,6 @@
 void setup() 
 {
-  silly :3
-    baka hahaha
+  please work
 }
 
 void loop() {
